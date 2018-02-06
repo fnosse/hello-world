@@ -1,3 +1,0 @@
-Hej,
-
-En till README
